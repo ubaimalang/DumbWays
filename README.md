@@ -1,4 +1,4 @@
-# DumbWays
+### DumbWays Bootcamp Test
 
 Untuk file javascript 1 - 3, bisa dibuka / dicoba di https://playcode.io/
 
